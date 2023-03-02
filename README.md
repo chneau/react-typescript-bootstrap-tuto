@@ -16,4 +16,11 @@ npm install --save-dev prettier
 
 # add check script
 # tsc --noEmit --skipLibCheck
+
+# add bootstrap
+npm install react-bootstrap bootstrap
+
+# add styled-components
+npm install styled-components
+npm install --save-dev @types/styled-components
 ```
